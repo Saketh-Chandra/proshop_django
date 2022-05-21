@@ -38,7 +38,7 @@ Pillow==9.0.1
 # psycopg2>=2 # Getting an Error while using with Docker
 psycopg2-binary>=2
 pycodestyle==2.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.7.0
 python-dateutil==2.8.1
 python-dotenv==0.13.0
